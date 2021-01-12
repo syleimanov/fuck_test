@@ -14,6 +14,7 @@
 		84589E7625AE06E900158E12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84589E7525AE06E900158E12 /* Assets.xcassets */; };
 		84589E7925AE06E900158E12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84589E7725AE06E900158E12 /* LaunchScreen.storyboard */; };
 		84589E8225AE070200158E12 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 84589E8125AE070200158E12 /* .gitignore */; };
+		84589E8F25AE0B4000158E12 /* testViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84589E8E25AE0B4000158E12 /* testViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		84589E7825AE06E900158E12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84589E7A25AE06E900158E12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84589E8125AE070200158E12 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		84589E8E25AE0B4000158E12 /* testViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				84589E6E25AE06E700158E12 /* SceneDelegate.swift */,
 				84589E7025AE06E700158E12 /* ViewController.swift */,
 				84589E7225AE06E700158E12 /* Main.storyboard */,
+				84589E8E25AE0B4000158E12 /* testViewController.swift */,
 				84589E7525AE06E900158E12 /* Assets.xcassets */,
 				84589E7725AE06E900158E12 /* LaunchScreen.storyboard */,
 				84589E7A25AE06E900158E12 /* Info.plist */,
@@ -143,6 +146,7 @@
 			files = (
 				84589E7125AE06E700158E12 /* ViewController.swift in Sources */,
 				84589E6D25AE06E700158E12 /* AppDelegate.swift in Sources */,
+				84589E8F25AE0B4000158E12 /* testViewController.swift in Sources */,
 				84589E6F25AE06E700158E12 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
